@@ -1,6 +1,9 @@
 # Login and User Account Management System for NodeJS
 
-[![Home Page](readimg/home.png?raw=true)]
+![Home Page](readimg/home.png?raw=true)
+![Login Page](readimg/login.png?raw=true)
+![Signup Page](readimg/signup.png?raw=true)
+
 
 ## Features ##
 - Create New user account
